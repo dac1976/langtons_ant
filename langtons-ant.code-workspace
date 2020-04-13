@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "langtons-ant"
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true
+    }
+}

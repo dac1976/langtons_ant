@@ -1,0 +1,15 @@
+[package]
+name = "langtons-ant"
+version = "0.1.0"
+authors = ["dac1976 <dac1976github@outlook.com>"]
+edition = "2020"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "langtons-ant"
+
+[dependencies]
+piston_window = "*"
+rand = "*"
+float-cmp = "*"
