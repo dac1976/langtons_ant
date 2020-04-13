@@ -8,6 +8,8 @@ The project creates a simple console application that prompts the user for input
 
 The code makes use of core standard Rust library code as well as the Piston crate to provide access to a 2D graphical rendering window.
 
+I have included the full source code, cargo TOML file and also the VSCode workspace and support files.
+
 ## License and Copyright ##
 If you find any of this code useful and use it in your software or take parts of it to base your own work on then please give credit and respect the licence.
 
