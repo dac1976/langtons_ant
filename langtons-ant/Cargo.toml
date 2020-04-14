@@ -1,6 +1,6 @@
 [package]
 name = "langtons-ant"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["dac1976 <dac1976github@outlook.com>"]
 edition = "2018"
 

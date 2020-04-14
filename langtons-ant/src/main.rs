@@ -167,7 +167,7 @@ fn create_random_colour() -> Colour {
 // Print out a title greeting message to the user in the console.
 fn print_title() {
     println!("***************************");
-    println!("* LANGTON's ANT SIMULATOR *");
+    println!("* LANGTON'S ANT SIMULATOR *");
     println!("***************************");
     println!("");
 }
