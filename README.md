@@ -35,7 +35,7 @@ RLLR
 Symmetrical expansion with a mix of space invader and skull patterns.
 
 RLRRRL
-Spreads out them makes a square path around the perimeter, which occasioanlly grows then gets locked back into a square path around the perimeter.
+Spreads out then makes a square path around the perimeter, which occasioanlly grows then gets locked back into a square path around the perimeter.
 
 ## License and Copyright ##
 If you find any of this code useful and use it in your software or take parts of it to base your own work on then please give credit and respect the licence.
