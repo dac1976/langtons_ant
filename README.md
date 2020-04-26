@@ -10,6 +10,33 @@ The code makes use of core standard Rust library code as well as the Piston crat
 
 I have included the full source code, cargo TOML file and also the VSCode workspace and support files.
 
+## Examples ##
+Good path rules to try...
+
+RL 
+This is the original classic rule.
+
+RLR
+Grows chaotically. It is not known whether this ant ever produces a highway. 
+
+LLRR
+Grows symmetrically.
+
+LRRRRRLLR
+Fills space in a square around itself. 
+
+LLRRRLRLRLLR
+Creates a convoluted highway. 
+
+RRLLLRLLLRRR
+Creates a filled triangle shape that grows and moves. 
+
+RLLR
+Symmetrical expansion with a mix of space invader and skull patterns.
+
+RLRRRL
+Spreads out them makes a square path around the perimeter, which occasioanlly grows then gets locked back into a square path around the perimeter.
+
 ## License and Copyright ##
 If you find any of this code useful and use it in your software or take parts of it to base your own work on then please give credit and respect the licence.
 
